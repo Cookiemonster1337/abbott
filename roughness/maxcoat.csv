@@ -1,0 +1,22 @@
+﻿Probe;Vorbehandlung;Kennung;Ra_nf [µm]
+geschliffen_P80;geschliffen;;0.224
+geschliffen_P500;geschliffen;;0.238
+geschliffen_P800;geschliffen;;0.138
+geschliffen_P1200;geschliffen;;0.127
+gps_5bar;GPS;;0.841
+gps_7bar;GPS;;0.975
+pp_100V_30s;plasmapoliert;PP800a;0.252
+pp_100V_60s;plasmapoliert;PP801a ;0.27
+pp_100V_2min;plasmapoliert;PP802a;0.257
+pp_100V_4min;plasmapoliert;PP803a;0.249
+pp_100V_8min;plasmapoliert;PP804a;0.256
+pp_100V_16min;plasmapoliert;PP805a;0.291
+pp_100V_120s;plasmapoliert;PP789a;0.238
+pp_100V_120s;plasmapoliert;PP789b;0.253
+pp_100V_120s;plasmapoliert;PP789c;0.229
+pp_100V_30s;plasmapoliert;PP790a;0.296833333333333
+pp_100V_30s;plasmapoliert;PP790b;0.280666666666667
+pp_100V_30s;plasmapoliert;PP790c;0.297833333333333
+unbehandelt_02;keine;PP791a;0.226666666666667
+unbehandelt_03;keine;PP791b;0.232833333333333
+unbehandelt_04;keine;PP791c;0.227666666666667
